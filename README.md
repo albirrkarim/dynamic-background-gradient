@@ -1,8 +1,8 @@
 Generate css background gradient based on the color of some image.
 
+![Generate css background gradient based on the color of some image](img/dynamic.png)
 
-
-This is the code,
+This is the code
 
 ```js
 import ColorThief from "./UI/ColorThief";
